@@ -1,1 +1,1 @@
-# weather_app-with-api-integration
+A simple and responsive Weather Application built using HTML, CSS, and JavaScript that allows users to check real-time weather information for any city. The app fetches live weather data using the OpenWeatherMap API and displays details like temperature, humidity, wind speed, and weather conditions with dynamic weather icons.
